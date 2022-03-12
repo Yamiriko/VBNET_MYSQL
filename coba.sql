@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: 10 Mar 2022 pada 02.18
+-- Generation Time: 12 Mar 2022 pada 01.41
 -- Versi Server: 10.1.22-MariaDB
 -- PHP Version: 7.1.4
 
@@ -44,7 +44,10 @@ CREATE TABLE `tb_coba` (
 
 INSERT INTO `tb_coba` (`kode`, `nama`, `jenis_kelamin`, `tgl_lahir`) VALUES
 ('A-1', 'Peter Parker', 'Laki-Laki', '2000-03-10'),
-('A-2', 'John Cena', 'Laki-Laki', '1983-03-10');
+('A-2', 'John Cena', 'Laki-Laki', '1983-03-10'),
+('A-3', 'Undertaker', 'Laki-Laki', '1978-03-12'),
+('A-4', 'Lara Croft', 'Perempuan', '1983-03-10'),
+('A-5', 'Emma Watson', 'Perempuan', '1983-03-10');
 
 --
 -- Indexes for dumped tables

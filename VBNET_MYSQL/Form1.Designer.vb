@@ -172,7 +172,7 @@ Partial Class Form1
         Me.Margin = New System.Windows.Forms.Padding(4)
         Me.Name = "Form1"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "Menampilkan Data Dari DB MySQL Ke DGV VB Net"
+        Me.Text = "CRUD VBNet MySQL/MariaDB"
         CType(Me.DGV, System.ComponentModel.ISupportInitialize).EndInit()
         Me.GroupBox1.ResumeLayout(False)
         Me.GroupBox1.PerformLayout()
